@@ -51,7 +51,7 @@
          ],
          "user_ratings_total" : 16,
          "vicinity" : "32 The Promenade, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -104,7 +104,7 @@
          ],
          "user_ratings_total" : 25,
          "vicinity" : "King Street Wharf 5, 32 The Promenade, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -152,7 +152,7 @@
          "types" : [ "bar", "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 1340,
          "vicinity" : "Level 1, 2 and 3, Overseas Passenger Terminal, Circular Quay W, The Rocks"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -205,7 +205,7 @@
          ],
          "user_ratings_total" : 58,
          "vicinity" : "32 The Promenade King Street Wharf 5, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -259,7 +259,7 @@
          ],
          "user_ratings_total" : 97,
          "vicinity" : "King Street Wharf, 32 The Promenade, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -312,7 +312,7 @@
          ],
          "user_ratings_total" : 137,
          "vicinity" : "32 The Promenade, King Street Wharf, 5, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -365,7 +365,7 @@
          ],
          "user_ratings_total" : 5,
          "vicinity" : "6 Cirular Quay, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -418,7 +418,7 @@
          ],
          "user_ratings_total" : 29,
          "vicinity" : "King Street Wharf, King St, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -465,7 +465,7 @@
          "types" : [ "bar", "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 97,
          "vicinity" : "37 Bank St, Pyrmont"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -518,7 +518,7 @@
          ],
          "user_ratings_total" : 5,
          "vicinity" : "King Street Wharf 5, 32 The Promenade, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -576,7 +576,7 @@
          ],
          "user_ratings_total" : 3217,
          "vicinity" : "The Promenade, Lime St, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -623,7 +623,7 @@
          "types" : [ "restaurant", "bar", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 1,
          "vicinity" : "King Street Wharf 1, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -671,7 +671,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 1033,
          "vicinity" : "Upper Level Overseas Passenger Terminal, The Rocks"
-      },
+      }
 {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -718,7 +718,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 145,
          "vicinity" : "8/171 Clarence St, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -772,7 +772,7 @@
          ],
          "user_ratings_total" : 97,
          "vicinity" : "King Street Wharf, 32 The Promenade, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -819,7 +819,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 202,
          "vicinity" : "37 Bank St, Pyrmont"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -863,7 +863,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 3,
          "vicinity" : "57 Campbell St, Balmain"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -910,7 +910,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 21,
          "vicinity" : "532/5-19 Lime St, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -962,7 +962,7 @@
          ],
          "user_ratings_total" : 145,
          "vicinity" : "Pier 26, Darling Harbour, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -1014,7 +1014,7 @@
          ],
          "user_ratings_total" : 246,
          "vicinity" : "Wharf 6, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -1061,7 +1061,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 101,
          "vicinity" : "37 Bank St, Pyrmont"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -1114,7 +1114,7 @@
          ],
          "user_ratings_total" : 29,
          "vicinity" : "King Street Wharf, King St, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -1168,7 +1168,7 @@
          ],
          "user_ratings_total" : 16,
          "vicinity" : "32 The Promenade, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -1215,7 +1215,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 6,
          "vicinity" : "Harbourside Shopping Centre, Shop 191, Darling Harbour"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -1262,7 +1262,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 73,
          "vicinity" : "Sydney Superyacht Marina 2 Maritime Court, Rozelle"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -1309,7 +1309,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 86,
          "vicinity" : "Pier 26, Darling Harbour, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -1356,7 +1356,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 0,
          "vicinity" : "suite 207/83 York St, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -1389,7 +1389,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 0,
          "vicinity" : "Suite 3, Level 27 Governor Phillip Tower 1 Farrer Place, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -1436,7 +1436,7 @@
          "types" : [ "point_of_interest", "establishment" ],
          "user_ratings_total" : 27,
          "vicinity" : "Wharf 8, King Street Wharf, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -1483,7 +1483,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 44,
          "vicinity" : "37 Bank St, Pyrmont"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -1530,7 +1530,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 38,
          "vicinity" : "37 Bank St, Pyrmont"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -1577,7 +1577,7 @@
          "types" : [ "point_of_interest", "establishment" ],
          "user_ratings_total" : 31,
          "vicinity" : "Circular Quay - Wharf 6, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -1624,8 +1624,9 @@
          "types" : [ "point_of_interest", "establishment" ],
          "user_ratings_total" : 1,
          "vicinity" : "401 Sussex St, Haymarket"
-      },
-{
+      }
+      {
+
          "business_status" : "OPERATIONAL",
          "geometry" : {
             "location" : {
@@ -1671,7 +1672,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 145,
          "vicinity" : "8/171 Clarence St, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -1725,7 +1726,7 @@
          ],
          "user_ratings_total" : 97,
          "vicinity" : "King Street Wharf, 32 The Promenade, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -1772,7 +1773,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 202,
          "vicinity" : "37 Bank St, Pyrmont"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -1816,7 +1817,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 3,
          "vicinity" : "57 Campbell St, Balmain"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -1863,7 +1864,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 21,
          "vicinity" : "532/5-19 Lime St, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -1915,7 +1916,7 @@
          ],
          "user_ratings_total" : 145,
          "vicinity" : "Pier 26, Darling Harbour, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -1967,7 +1968,7 @@
          ],
          "user_ratings_total" : 246,
          "vicinity" : "Wharf 6, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2014,7 +2015,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 101,
          "vicinity" : "37 Bank St, Pyrmont"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2067,7 +2068,7 @@
          ],
          "user_ratings_total" : 29,
          "vicinity" : "King Street Wharf, King St, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2121,7 +2122,7 @@
          ],
          "user_ratings_total" : 16,
          "vicinity" : "32 The Promenade, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2168,7 +2169,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 6,
          "vicinity" : "Harbourside Shopping Centre, Shop 191, Darling Harbour"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2215,7 +2216,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 73,
          "vicinity" : "Sydney Superyacht Marina 2 Maritime Court, Rozelle"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2262,7 +2263,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 86,
          "vicinity" : "Pier 26, Darling Harbour, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2309,7 +2310,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 0,
          "vicinity" : "suite 207/83 York St, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2342,7 +2343,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 0,
          "vicinity" : "Suite 3, Level 27 Governor Phillip Tower 1 Farrer Place, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2389,7 +2390,7 @@
          "types" : [ "point_of_interest", "establishment" ],
          "user_ratings_total" : 27,
          "vicinity" : "Wharf 8, King Street Wharf, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2436,7 +2437,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 44,
          "vicinity" : "37 Bank St, Pyrmont"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2483,7 +2484,7 @@
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "user_ratings_total" : 38,
          "vicinity" : "37 Bank St, Pyrmont"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2530,7 +2531,7 @@
          "types" : [ "point_of_interest", "establishment" ],
          "user_ratings_total" : 31,
          "vicinity" : "Circular Quay - Wharf 6, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2577,7 +2578,7 @@
          "types" : [ "point_of_interest", "establishment" ],
          "user_ratings_total" : 1,
          "vicinity" : "401 Sussex St, Haymarket"
-      },
+      }
 {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2624,7 +2625,7 @@
          "types" : [ "park", "point_of_interest", "establishment" ],
          "user_ratings_total" : 1736,
          "vicinity" : "Pirrama Rd, Pyrmont"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2671,7 +2672,7 @@
          "types" : [ "park", "point_of_interest", "establishment" ],
          "user_ratings_total" : 89,
          "vicinity" : "320-334 Jones St, Ultimo"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2718,7 +2719,7 @@
          "types" : [ "park", "point_of_interest", "establishment" ],
          "user_ratings_total" : 0,
          "vicinity" : "17 Argyle St, The Rocks"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2765,7 +2766,7 @@
          "types" : [ "park", "point_of_interest", "establishment" ],
          "user_ratings_total" : 946,
          "vicinity" : "Wentworth Park Rd, Ultimo"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2812,7 +2813,7 @@
          "types" : [ "park", "point_of_interest", "establishment" ],
          "user_ratings_total" : 190,
          "vicinity" : "140 Glebe Point Rd, Glebe"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2859,7 +2860,7 @@
          "types" : [ "park", "point_of_interest", "establishment" ],
          "user_ratings_total" : 194,
          "vicinity" : "Bowman St, Pyrmont"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2906,7 +2907,7 @@
          "types" : [ "park", "point_of_interest", "establishment" ],
          "user_ratings_total" : 121,
          "vicinity" : "147 Goulburn St, Surry Hills"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -2953,7 +2954,7 @@
          "types" : [ "park", "point_of_interest", "establishment" ],
          "user_ratings_total" : 46,
          "vicinity" : "93 Ross St, Forest Lodge"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3000,7 +3001,7 @@
          "types" : [ "park", "point_of_interest", "establishment" ],
          "user_ratings_total" : 374,
          "vicinity" : "Lang St, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3044,7 +3045,7 @@
          "types" : [ "park", "point_of_interest", "establishment" ],
          "user_ratings_total" : 8,
          "vicinity" : "Birchgrove"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3091,7 +3092,7 @@
          "types" : [ "park", "point_of_interest", "establishment" ],
          "user_ratings_total" : 2,
          "vicinity" : "Pottinger St, Dawes Point"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3138,7 +3139,7 @@
          "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
          "user_ratings_total" : 405,
          "vicinity" : "Mort St, Birchgrove"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3185,7 +3186,7 @@
          "types" : [ "park", "point_of_interest", "establishment" ],
          "user_ratings_total" : 159,
          "vicinity" : "Darling Island Rd, Pyrmont"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3232,7 +3233,7 @@
          "types" : [ "park", "point_of_interest", "establishment" ],
          "user_ratings_total" : 23,
          "vicinity" : "Pyrmont"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3276,7 +3277,7 @@
          "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
          "user_ratings_total" : 112,
          "vicinity" : "505 Glebe Point Rd, Glebe"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3323,7 +3324,7 @@
          "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
          "user_ratings_total" : 276,
          "vicinity" : "Darling Street, Darvall St, Balmain"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3370,7 +3371,7 @@
          "types" : [ "park", "point_of_interest", "establishment" ],
          "user_ratings_total" : 10,
          "vicinity" : "74 Bowman St, Pyrmont"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3417,7 +3418,7 @@
          "types" : [ "park", "tourist_attraction", "point_of_interest", "establishment" ],
          "user_ratings_total" : 124,
          "vicinity" : "1 Darling St, Balmain East"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3447,7 +3448,7 @@
          "types" : [ "park", "point_of_interest", "establishment" ],
          "user_ratings_total" : 0,
          "vicinity" : "Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3491,7 +3492,7 @@
          "types" : [ "park", "point_of_interest", "establishment" ],
          "user_ratings_total" : 9,
          "vicinity" : "Little Pier St, Darling Harbour"
-      },
+      }
 {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3538,7 +3539,7 @@
          "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
          "user_ratings_total" : 6867,
          "vicinity" : "500 Harris St, Ultimo"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3585,7 +3586,7 @@
          "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
          "user_ratings_total" : 373,
          "vicinity" : "Kendall Ln, The Rocks"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3632,7 +3633,7 @@
          "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
          "user_ratings_total" : 1691,
          "vicinity" : "Cnr Bridge St &, Phillip St, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3679,7 +3680,7 @@
          "types" : [ "museum", "point_of_interest", "establishment" ],
          "user_ratings_total" : 6155,
          "vicinity" : "1 William St, Darlinghurst"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3735,7 +3736,7 @@
          ],
          "user_ratings_total" : 7205,
          "vicinity" : "140 George St, The Rocks"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3782,7 +3783,7 @@
          "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
          "user_ratings_total" : 104,
          "vicinity" : "60 Pitt St, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3826,7 +3827,7 @@
          "types" : [ "museum", "point_of_interest", "establishment" ],
          "user_ratings_total" : 1,
          "vicinity" : "58-64 Gloucester St, The Rocks"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3873,7 +3874,7 @@
          "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
          "user_ratings_total" : 4151,
          "vicinity" : "2 Murray St, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3920,7 +3921,7 @@
          "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
          "user_ratings_total" : 171,
          "vicinity" : "58/64 Gloucester St, The Rocks"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -3964,7 +3965,7 @@
          "types" : [ "museum", "point_of_interest", "establishment" ],
          "user_ratings_total" : 3,
          "vicinity" : "Sydney Harbour Bridge, The Rocks"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4008,7 +4009,7 @@
          "types" : [ "museum", "point_of_interest", "establishment" ],
          "user_ratings_total" : 2,
          "vicinity" : "744 George St, Haymarket"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4055,7 +4056,7 @@
          "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
          "user_ratings_total" : 8,
          "vicinity" : "Pyrmont"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4102,7 +4103,7 @@
          "types" : [ "museum", "point_of_interest", "establishment" ],
          "user_ratings_total" : 28,
          "vicinity" : "10 Macquarie St, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4156,7 +4157,7 @@
          ],
          "user_ratings_total" : 16,
          "vicinity" : "66 Goulburn St, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4200,7 +4201,7 @@
          "types" : [ "museum", "point_of_interest", "establishment" ],
          "user_ratings_total" : 22,
          "vicinity" : "651 Harris St, Ultimo"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4247,7 +4248,7 @@
          "types" : [ "museum", "point_of_interest", "establishment" ],
          "user_ratings_total" : 18,
          "vicinity" : "140 George St, The Rocks"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4291,7 +4292,7 @@
          "types" : [ "museum", "point_of_interest", "establishment" ],
          "user_ratings_total" : 11,
          "vicinity" : "Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4338,7 +4339,7 @@
          "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
          "user_ratings_total" : 4106,
          "vicinity" : "1-5 Wheat Rd, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4385,7 +4386,7 @@
          "types" : [ "museum", "tourist_attraction", "point_of_interest", "establishment" ],
          "user_ratings_total" : 415,
          "vicinity" : "Cnr Phillip St &, Albert St, Sydney"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4432,7 +4433,7 @@
          "types" : [ "tourist_attraction", "museum", "point_of_interest", "establishment" ],
          "user_ratings_total" : 818,
          "vicinity" : "Queens Square, Macquarie St, Sydney"
-      },
+      }
 {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4479,7 +4480,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 17,
          "vicinity" : "748 S First St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4526,7 +4527,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 43,
          "vicinity" : "17 S 4th St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4574,7 +4575,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 2863,
          "vicinity" : "140 E San Carlos St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4621,7 +4622,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 238,
          "vicinity" : "399 S First St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4669,7 +4670,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 823,
          "vicinity" : "350 W Julian St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4717,7 +4718,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 178,
          "vicinity" : "2 N First St Suite 150, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4765,7 +4766,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 875,
          "vicinity" : "304 E Santa Clara St Suite A, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4813,7 +4814,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 1087,
          "vicinity" : "302 S Market St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4861,7 +4862,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 2214,
          "vicinity" : "301 S First St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4909,7 +4910,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 1181,
          "vicinity" : "143 W Santa Clara St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -4957,7 +4958,7 @@
          "types" : [ "bar", "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 913,
          "vicinity" : "791 Auzerais Ave, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5005,7 +5006,7 @@
          "types" : [ "bar", "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 141,
          "vicinity" : "27 E William St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5053,7 +5054,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 589,
          "vicinity" : "387 S 1st St #109, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5101,7 +5102,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 262,
          "vicinity" : "601 S First St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5149,7 +5150,7 @@
          "types" : [ "bar", "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 146,
          "vicinity" : "71 N San Pedro St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5183,7 +5184,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 0,
          "vicinity" : "505 S 10th St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5231,7 +5232,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 199,
          "vicinity" : "414 E William St Suite A, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5278,7 +5279,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 24,
          "vicinity" : "350 S Market St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5326,7 +5327,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 122,
          "vicinity" : "503 W San Carlos St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5374,7 +5375,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 141,
          "vicinity" : "995 S First St, San Jose"
-      },
+      }
 {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5427,7 +5428,7 @@
          ],
          "user_ratings_total" : 7,
          "vicinity" : "365 Bird Ave., San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5474,7 +5475,7 @@
          "types" : [ "store", "point_of_interest", "establishment" ],
          "user_ratings_total" : 8,
          "vicinity" : "201 S Market St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5527,7 +5528,7 @@
          ],
          "user_ratings_total" : 14,
          "vicinity" : "121 E San Carlos St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5574,7 +5575,7 @@
          "types" : [ "store", "point_of_interest", "establishment" ],
          "user_ratings_total" : 109,
          "vicinity" : "414 E William St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5621,7 +5622,7 @@
          "types" : [ "store", "point_of_interest", "establishment" ],
          "user_ratings_total" : 43,
          "vicinity" : "565 E Santa Clara St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5674,7 +5675,7 @@
          ],
          "user_ratings_total" : 4,
          "vicinity" : "60 N San Pedro St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5721,7 +5722,7 @@
          "types" : [ "store", "point_of_interest", "establishment" ],
          "user_ratings_total" : 48,
          "vicinity" : "962 E Santa Clara St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5774,7 +5775,7 @@
          ],
          "user_ratings_total" : 1,
          "vicinity" : "110 S Market St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5811,7 +5812,7 @@
          "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
          "user_ratings_total" : 0,
          "vicinity" : "1058 S 5th St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5858,7 +5859,7 @@
          "types" : [ "store", "point_of_interest", "establishment" ],
          "user_ratings_total" : 231,
          "vicinity" : "428 E Santa Clara St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5905,7 +5906,7 @@
          "types" : [ "store", "point_of_interest", "establishment" ],
          "user_ratings_total" : 48,
          "vicinity" : "962 S First St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5952,7 +5953,7 @@
          "types" : [ "store", "point_of_interest", "establishment" ],
          "user_ratings_total" : 12,
          "vicinity" : "80 S Market St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -5999,7 +6000,7 @@
          "types" : [ "store", "point_of_interest", "establishment" ],
          "user_ratings_total" : 75,
          "vicinity" : "525 W Santa Clara St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -6046,7 +6047,7 @@
          "types" : [ "store", "point_of_interest", "establishment" ],
          "user_ratings_total" : 284,
          "vicinity" : "118 E Santa Clara St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -6093,7 +6094,7 @@
          "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
          "user_ratings_total" : 45,
          "vicinity" : "87 N San Pedro St Suite 105, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -6148,7 +6149,7 @@
          ],
          "user_ratings_total" : 152,
          "vicinity" : "108 Paseo de San Antonio, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -6196,7 +6197,7 @@
          "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
          "user_ratings_total" : 409,
          "vicinity" : "360 S Market St #80, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -6243,7 +6244,7 @@
          "types" : [ "clothing_store", "store", "point_of_interest", "establishment" ],
          "user_ratings_total" : 127,
          "vicinity" : "751 W San Carlos St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -6299,7 +6300,7 @@
          ],
          "user_ratings_total" : 408,
          "vicinity" : "754 The Alameda #80, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -6346,7 +6347,7 @@
          "types" : [ "cafe", "food", "store", "point_of_interest", "establishment" ],
          "user_ratings_total" : 378,
          "vicinity" : "315 S First St, San Jose"
-      },
+      }
 {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -6394,7 +6395,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 1156,
          "vicinity" : "2077 N First St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -6431,7 +6432,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 3,
          "vicinity" : "520 Brennan St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -6479,7 +6480,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 701,
          "vicinity" : "90 Skyport Dr Ste 170, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -6527,7 +6528,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 2261,
          "vicinity" : "2551 N First St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -6574,7 +6575,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 249,
          "vicinity" : "1788 N First St #10, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -6621,7 +6622,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 15,
          "vicinity" : "1085 E Brokaw Rd #40, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -6669,7 +6670,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "store", "establishment" ],
          "user_ratings_total" : 180,
          "vicinity" : "50 Skyport Dr Ste 10, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -6716,7 +6717,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 51,
          "vicinity" : "1751 N First St STE 70, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -6764,7 +6765,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 203,
          "vicinity" : "1751 N First St #40, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -6812,7 +6813,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 655,
          "vicinity" : "1035 E Brokaw Rd #20, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -6859,7 +6860,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 32,
          "vicinity" : "1759 Technology Dr #20, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -6906,7 +6907,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 351,
          "vicinity" : "1751 N First St Suite 60, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -6954,7 +6955,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 265,
          "vicinity" : "1751 N First St #10, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7002,7 +7003,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 39,
          "vicinity" : "50 Skyport Dr, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7050,7 +7051,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 397,
          "vicinity" : "1516 N 4th St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7106,7 +7107,7 @@
          ],
          "user_ratings_total" : 192,
          "vicinity" : "497 Reynolds Cir, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7154,7 +7155,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 391,
          "vicinity" : "2591 N First St, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7202,7 +7203,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 194,
          "vicinity" : "1085 E Brokaw Rd #40, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7250,7 +7251,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 518,
          "vicinity" : "1078 E Brokaw Rd, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7298,7 +7299,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 396,
          "vicinity" : "2557 N First St, San Jose"
-      },
+      }
 {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7346,7 +7347,7 @@
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 100,
          "vicinity" : "1712 W Campbell Ave, Campbell"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7394,7 +7395,7 @@
          "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 409,
          "vicinity" : "1710 W Campbell Ave, Campbell"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7442,7 +7443,7 @@
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 556,
          "vicinity" : "819 W Hamilton Ave, Campbell"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7490,7 +7491,7 @@
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 185,
          "vicinity" : "3120 Williams Rd, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7538,7 +7539,7 @@
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 260,
          "vicinity" : "1535 S Winchester Blvd, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7586,7 +7587,7 @@
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 362,
          "vicinity" : "100 W Hamilton Ave, Campbell"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7634,7 +7635,7 @@
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 97,
          "vicinity" : "76 E Campbell Ave, Campbell"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7682,7 +7683,7 @@
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 561,
          "vicinity" : "The Redwoods Shopping Center, 801 W Hamilton Ave, Campbell"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7729,7 +7730,7 @@
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 67,
          "vicinity" : "1358 S Winchester Blvd, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7777,7 +7778,7 @@
          "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 1242,
          "vicinity" : "1320 Saratoga Ave, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7825,7 +7826,7 @@
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 260,
          "vicinity" : "104 San Tomas Aquino Rd, Campbell"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7872,7 +7873,7 @@
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 41,
          "vicinity" : "995 Saratoga Ave, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7920,7 +7921,7 @@
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 87,
          "vicinity" : "991 Saratoga Ave suite 110, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -7968,7 +7969,7 @@
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 515,
          "vicinity" : "1651 W Campbell Ave, Campbell"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8016,7 +8017,7 @@
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 510,
          "vicinity" : "1306 Saratoga Ave, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8064,7 +8065,7 @@
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 413,
          "vicinity" : "1138 Saratoga Ave, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8112,7 +8113,7 @@
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 1195,
          "vicinity" : "851 W Hamilton Ave, Campbell"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8160,7 +8161,7 @@
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 360,
          "vicinity" : "651 W Hamilton Ave Suite 1070, Campbell"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8208,7 +8209,7 @@
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 29,
          "vicinity" : "1080 Saratoga Ave, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8256,7 +8257,7 @@
          "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
          "user_ratings_total" : 502,
          "vicinity" : "1461 W Campbell Ave, Campbell"
-      },
+      }
 {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8303,7 +8304,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 1,
          "vicinity" : "Branner Hall Complex, 655 Escondido Rd, Stanford"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8351,7 +8352,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 235,
          "vicinity" : "750 Escondido Rd, Stanford"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8399,7 +8400,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 494,
          "vicinity" : "459 Lagunita Dr, Stanford"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8447,7 +8448,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 219,
          "vicinity" : "520 Lasuen Mall, Stanford"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8495,7 +8496,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 6,
          "vicinity" : "459 Lagunita Dr, Stanford"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8550,7 +8551,7 @@
          ],
          "user_ratings_total" : 124,
          "vicinity" : "198 Junipero Serra Blvd, Stanford"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8597,7 +8598,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 144,
          "vicinity" : "326 Santa Teresa St, Stanford"
-      },
+      }
 {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8645,7 +8646,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 158,
          "vicinity" : "5899 Santa Teresa Blvd #101, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8693,7 +8694,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 212,
          "vicinity" : "445 Blossom Hill Rd K, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8741,7 +8742,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 232,
          "vicinity" : "436 Blossom Hill Rd, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8789,7 +8790,7 @@
          "types" : [ "bar", "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 1381,
          "vicinity" : "5679 Snell Ave, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8837,7 +8838,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 483,
          "vicinity" : "615 Blossom Hill Rd, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8884,7 +8885,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 129,
          "vicinity" : "6041 Snell Ave, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8938,7 +8939,7 @@
          ],
          "user_ratings_total" : 204,
          "vicinity" : "414 Blossom Hill Rd, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -8986,7 +8987,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 367,
          "vicinity" : "846 Blossom Hill Rd, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -9034,7 +9035,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 709,
          "vicinity" : "425 Blossom Hill Rd, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -9082,7 +9083,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 342,
          "vicinity" : "658 Blossom Hill Rd, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -9130,7 +9131,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 298,
          "vicinity" : "630 Blossom Hill Rd, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -9178,7 +9179,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 123,
          "vicinity" : "6039 Snell Ave, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -9226,7 +9227,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 304,
          "vicinity" : "6055 Snell Ave, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -9274,7 +9275,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 22,
          "vicinity" : "6033 Snell Ave, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -9322,7 +9323,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 196,
          "vicinity" : "664 Blossom Hill Rd, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -9370,7 +9371,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 165,
          "vicinity" : "5899 Santa Teresa Blvd #109, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -9418,7 +9419,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 554,
          "vicinity" : "5560 Santa Teresa Blvd, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -9466,7 +9467,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 531,
          "vicinity" : "834 Blossom Hill Rd, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
@@ -9514,7 +9515,7 @@
          "types" : [ "restaurant", "point_of_interest", "food", "establishment" ],
          "user_ratings_total" : 1514,
          "vicinity" : "5465 Snell Ave, San Jose"
-      },
+      }
       {
          "business_status" : "OPERATIONAL",
          "geometry" : {
